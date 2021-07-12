@@ -1,6 +1,6 @@
 # DedSec
+<h1>Programming language</h1>
 <ul>
-  <h1>Programming language</h1>
   <li>Python</li>
   <li>C</li>
 </ul>
