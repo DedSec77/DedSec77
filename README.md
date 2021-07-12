@@ -21,14 +21,5 @@ Discord: DedSec#3927
 <br/>
 Telegram: @booleanTrue
 <br/>
-<button href="">DonationAlerts</button>
-<style>
-  button{
-    width: 200px;
-    height: 180px;
-    background-color: green;
-    border-radius: 50px;
-  }
-</style>
-<br/>
+<a href="https://www.donationalerts.com/r/dedsec228">DonationAlerts</a>
 <br/>
