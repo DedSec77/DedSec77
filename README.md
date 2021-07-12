@@ -1,4 +1,3 @@
-# DedSec
 ![standard](https://user-images.githubusercontent.com/55799553/125281396-9e13d500-e32f-11eb-98b5-8d7b3e4af0eb.gif)
 <h1>Programming language</h1>
 <ul>
