@@ -16,3 +16,19 @@
 <a href="https://github.com/DedSec77/WeatherAPI">WeatherAPI</a>
 <br/>
 <a href="https://github.com/DedSec77/gitsearch">gitsearch</a>
+# Links
+Discord: DedSec#3927
+<br/>
+Telegram: @booleanTrue
+<br/>
+<button href="">DonationAlerts</button>
+<style>
+  button{
+    width: 200px;
+    height: 180px;
+    background-color: green;
+    border-radius: 50px;
+  }
+</style>
+<br/>
+<br/>
