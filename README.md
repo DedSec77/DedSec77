@@ -1,16 +1,14 @@
-### Hi there 👋
+# DedSec
+<ul>
+  <h1>Programming language</h1>
+  <li>Python</li>
+  <li>C</li>
+</ul>
+<br/>
 
-<!--
-**DedSec77/DedSec77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My best Projects
+<a href="https://github.com/DedSec77/dfetch">dfetch</a>
+<a href="https://github.com/DedSec77/Kobra">Kobra</a>
+<a href="https://github.com/DedSec77/Kobra-GUI">Kobra-GUI</a>
+<a href="https://github.com/DedSec77/WeatherAPI">WeatherAPI</a>
+<a href="https://github.com/DedSec77/gitsearch">gitsearch</a>
