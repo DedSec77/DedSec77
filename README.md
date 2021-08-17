@@ -1,4 +1,4 @@
-![standard](https://user-images.githubusercontent.com/55799553/125281396-9e13d500-e32f-11eb-98b5-8d7b3e4af0eb.gif)
+![standard](https://user-images.githubusercontent.com/55799553/129815520-942b8603-7835-495e-b5a9-8b7e50885799.gif)
 <h1>Programming language</h1>
 <ul>
   <li>Python</li>
