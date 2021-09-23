@@ -2,7 +2,7 @@
 <h1>Programming language</h1>
 <ul>
   <li>Python</li>
-  <li>C</li>
+  <li>C#</li>
 </ul>
 <br/>
 
@@ -21,7 +21,7 @@ Discord: DedSec#7930
 <br/>
 Telegram: @booleanTrue
 <br/>
-Bot: @CyberTyanka_bot
+Bot: @CyberTyanka_bot (not working)
 <br/>
 <a href="https://www.donationalerts.com/r/dedsec228">DonationAlerts</a>
 <br/>
