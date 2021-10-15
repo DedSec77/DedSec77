@@ -17,7 +17,7 @@
 <br/>
 <a href="https://github.com/DedSec77/gitsearch">gitsearch</a>
 # Links
-Discord: DedSec#7930
+Discord: DedSec#0339
 <br/>
 Telegram: @booleanTrue
 <br/>
