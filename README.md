@@ -7,7 +7,7 @@
 <br/>
 
 # My best Projects✏️
-<a href="https://github.com/DedSec77/dfetch">dfetch</a>
+<a href="https://github.com/DedSec77/deadfetch">deadfetch</a>
 <br/>
 <a href="https://github.com/DedSec77/Kobra">Kobra</a>
 <br/>
@@ -17,7 +17,7 @@
 <br/>
 <a href="https://github.com/DedSec77/gitsearch">gitsearch</a>
 # Links
-Discord: DedSec#0339
+Discord: dedsec77
 <br/>
 Telegram: @booleanTrue
 <br/>
