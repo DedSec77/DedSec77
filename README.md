@@ -6,7 +6,7 @@
 </ul>
 <br/>
 
-# My best Projects✏️
+# My Projects✏️
 <a href="https://github.com/DedSec77/deadfetch">deadfetch</a>
 <br/>
 <a href="https://github.com/DedSec77/Kobra">Kobra</a>
